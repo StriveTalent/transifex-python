@@ -1,0 +1,13 @@
+[project]
+name = "transifex-python"
+version = "3.5.0"
+description = "Transifex Python Toolkit"
+authors = ["Transifex <info@transifex.com>"]
+readme = "README.md"
+requires-python = ">=3.6"
+dependencies = [
+  "pyseeyou",
+  "requests",
+  "click",
+  "asttokens",
+]
